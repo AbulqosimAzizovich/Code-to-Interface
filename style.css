@@ -1,0 +1,32 @@
+body.body-dark{
+    background-color: rgba(5, 84, 84, 0.86);
+}
+
+body.body-dark nav{
+    background-color:  rgb(5, 21, 61) !important;
+}
+
+body.body-dark h2{
+    color: #fff; 
+}
+
+body.body-dark button{
+    background-color: #fff;
+    color: #000;
+}
+
+
+body.body-dark .writer{
+    background-color: rgb(5, 21, 61) !important;
+    color: #fff;
+}
+
+body.body-dark textarea{
+    background-color:  rgb(5, 21, 61) !important;
+    color: #fff !important;
+}
+
+body.body-dark textarea::placeholder{
+    color: #fff !important;
+}
+
